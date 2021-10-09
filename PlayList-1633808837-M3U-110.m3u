@@ -1,0 +1,245 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31518
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31519
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NEWS SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32153
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NEWS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32334
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² ANHANGUERA GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32158
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² BRASILIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32159
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² INTERNACIONAL SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32163
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² MINAS SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32164
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² NORDESTE HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32165
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² NSC FLORIANOPOLIS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32167
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² RIBEIRÃO PRETO SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32169
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5885d823ad13eadd64a8a8f05c795956.png" group-title="CANAIS: GLOBO", GLOBO² RJ HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32170
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² RPC TV HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32172
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO SP SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32175
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² TV BAHIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32176
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO TV SERGIPE HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32178
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² TV TEM BAURU SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32179
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² TV Tem Rio Preto SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32180
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² TV TEM SOROCABA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32181
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32182
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² TV VERDES MARES FORTALEZA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32183
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³  NSC JOINVILLE  HDD SC
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32184
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ BRASILIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32191
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ CHAPECO HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32194
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ CURITIBA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32198
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ EPTV RIBEIRAO PRETO SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32206
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ FLORIANOPOLIS FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32208
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ FOZ DO IGUAÇU FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32215
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ FULLHD SP H.265
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32216
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ GAZETA SUL ALEGRE ES FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32217
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ GAZETA VITORIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32220
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ GOIANIA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32221
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32223
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ INTER TV  CABUGI FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32226
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ INTER TV ALTO LITORAL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32227
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ INTER TV CABUGI SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32230
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ NORDESTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32241
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ NSC CHAPECO FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32243
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ NSC JOINVILLE  FULLHD SC
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32244
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ PORTO ALEGRE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32247
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO RBS TV CAXIAS DO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32251
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ RPC MARINGA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32265
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32266
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ RPC TV PARANAVAI FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32267
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ TV ASA BRANCA FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32279
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ TV CABO BRANCO FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32281
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ TV CENTRO AMERICA HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32284
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ TV CLUBE PI HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32286
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ TV GAZETA ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32290
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO TV GAZETA SUL
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32291
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO TV CABUGI HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32297
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO RBS TV PORTO ALEGRE FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32298
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO RBS TV PORTO ALEGRE HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32300
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32301
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO RBS Porto Alegre HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32304
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO³ TV SERGIPE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32307
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32309
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO INTERNACIONAL SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32319
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ INTER TV ALTO LITORAL FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32325
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NEWS HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31519
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NEWS SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32153
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NEWS
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32334
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO² ANHANGUERA GOIANIA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32158
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO NSC Blumenau HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32341
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ REDE AMAZONICA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32347
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ RPC CURITIBA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32351
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ RPC MARINGÁ FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32353
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ RPC TV CURITIBA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32357
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO SP HD¹
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32360
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV BRASILIA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32370
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV CABO BRANCO FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32371
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV CENTRO AMÉRICA SD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32372
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV CLUBE TERESINA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32373
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32374
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32376
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV MIRANTE FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32380
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV RIO SUL FULL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32387
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", GLOBO¹ TV SERGIPE FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32391
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO", Globo TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33737
+
+#EXTINF:-1 tvg-logo="http://xcui.vitvabc.xyz:8880/images/36837395e1111276d242f6599130cd9e.png" group-title="CANAIS: GLOBO", GLOOBINHO H265
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/33741
+
